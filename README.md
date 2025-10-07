@@ -13,7 +13,7 @@
 
 Here are some of the things I like to tinker with:
 
-- Programming languages & frameworks: JavaScript, Python, C, Electron.JS
+- Programming languages & frameworks: **JavaScript**, **Python**, **C**, **Electron.JS**
 - Web / front-end / back-end development  
 - Algorithms & problem-solving ~~ 
 - Embedded systems / hardware integration (arduinos and other stuff)
