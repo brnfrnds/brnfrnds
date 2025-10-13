@@ -1,3 +1,5 @@
+![Profile Banner](https://raw.githubusercontent.com/brnfrnds/brnfrnds/refs/heads/main/github-header-banner.png)
+
 # 👋 Hi, I’m Bruno Fernandes (`brnfrnds`)
 
 **“School Things…”**  
