@@ -34,6 +34,7 @@ Here are some of the things I like to tinker with:
 - (private) **Microscopium** — A simple visual effects manager for microscopes with OCR (Optical Character Recognition) integration.
 - (private) **CenaBank** — A netbanking app that attempts to apply all current security standards.
 - (private) **MeuOneBot** — A web interface for real-time data capture and analysis from a Line Follower Robot.
+
 Feel free to contact me if you're interested.
 
 ---
