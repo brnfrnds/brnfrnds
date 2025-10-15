@@ -28,7 +28,7 @@ Here are some of the things I like to tinker with:
 
 > *I've pinned some repositories that I’m especially proud of. Feel free to explore!*
 
-- **zinixyt/meetballs-embedded-workshop** — A session I held at MeetBalls.
+- **zinixyt/meetballs-embedded-workshop** — A session I held at [MeetBalls](https://meetballs.org/).
 - (private) **StoreYaDocs** — A fast-access file storage system with Google Drive integration, focused on tags, albums and collections.
 - (private) **TourNEiTo** — A ready to deploy E-Sports Tournament Framework with website integration and Live Broadcast-ready visuals.
 - (private) **Microscopium** — A simple visual effects manager for microscopes with OCR (Optical Character Recognition) integration.
@@ -42,6 +42,8 @@ Feel free to contact me if you're interested.
 ## 📈 GitHub Stats & Activity
 
 [![brnfrnds’s GitHub stats](https://github-readme-stats.vercel.app/api?username=brnfrnds&show_icons=true&theme=radical)](https://github.com/brnfrnds)  
+
+[![brnfrnds’s GitHub stats](https://github-readme-stats.vercel.app/api?username=zinixyt&show_icons=true&theme=radical)](https://github.com/zinixyt)  
 
 ---
 
