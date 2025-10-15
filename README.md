@@ -26,10 +26,15 @@ Here are some of the things I like to tinker with:
 
 ## 📂 Featured Projects
 
-> *I pin some repositories that I’m especially proud of. Feel free to explore!*
+> *I've pinned some repositories that I’m especially proud of. Feel free to explore!*
 
 - **zinixyt/meetballs-embedded-workshop** — A session I held at MeetBalls.
 - (private) **StoreYaDocs** — A fast-access file storage system with Google Drive integration, focused on tags, albums and collections.
+- (private) **TourNEiTo** — A ready to deploy E-Sports Tournament Framework with website integration and Live Broadcast-ready visuals.
+- (private) **Microscopium** — A simple visual effects manager for microscopes with OCR (Optical Character Recognition) integration.
+- (private) **CenaBank** — A netbanking app that attempts to apply all current security standards.
+- (private) **MeuOneBot** — A web interface for real-time data capture and analysis from a Line Follower Robot.
+Feel free to contact me if you're interested.
 
 ---
 
