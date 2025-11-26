@@ -7,7 +7,7 @@
 🎓 Student of Computer Engineering at **Universidade do Algarve (UAlg), Portugal**  
 📍 Based in Algarve, Portugal  
 📺 Creator / tech content on YouTube: [@zinixoficial](https://www.youtube.com/@zinixoficial) | [@zinixtech](https://www.youtube.com/@zinixtech)  
-📸 I also share visual / personal content: [Instagram — brnfrnds](https://www.instagram.com/brnfrnds) | [Instagram — zinixproducciones](https://www.instagram.com/zinixproducciones)
+📸 I also share visual / personal content: [Instagram — brnfrnds](https://www.instagram.com/brnfrnds) | [Instagram — zinixproduciones](https://www.instagram.com/zinixproduciones)
 
 ---
 
